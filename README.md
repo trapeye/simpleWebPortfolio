@@ -1,6 +1,10 @@
-# portfoliowan
+# Portfolio wan
 
-A new Flutter project.
+This is simple Portfolio that I make using Flutter web.
+I will improve bit by bit like put animation, try to make a clean code and etc
+
+![Screen1](https://github.com/trapeye/simpleWebPortfolio/blob/master/screenshot/WebPortfolio.gif)
+
 
 ## Getting Started
 
