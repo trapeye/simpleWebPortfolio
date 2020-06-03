@@ -5,6 +5,8 @@ I will improve bit by bit like put animation, try to make a clean code and etc
 
 ![Screen1](https://github.com/trapeye/simpleWebPortfolio/blob/master/screenshot/WebPortfolio.gif)
 
+You can check out my website that I host
+[syazwan.ml](https://syazwan.ml/#/)
 
 ## Getting Started
 
